@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/event_reminder.png</file>
+        <file>res/sound_1.mp3</file>
+        <file>res/reminder.png</file>
+        <file>res/my_reminder.png</file>
+        <file>res/add_reminder.png</file>
+        <file>res/reminder_title.png</file>
+        <file>res/reminder_desc.png</file>
+        <file>res/reminder_music.png</file>
+        <file>res/reminder_date_time.png</file>
+        <file>res/music_play.png</file>
+        <file>res/remove.png</file>
+        <file>res/about.png</file>
+    </qresource>
+</RCC>
